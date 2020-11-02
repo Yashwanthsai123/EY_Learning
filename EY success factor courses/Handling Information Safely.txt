@@ -1,0 +1,19 @@
+1.tick all
+
+2.b
+
+3 c
+
+4 c
+
+5 a c d
+
+6 a c d e 
+
+7 a c
+
+8 c
+
+9 b c
+
+10 a c d
